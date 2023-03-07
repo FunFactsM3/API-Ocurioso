@@ -7,5 +7,14 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "posts": [
+    {
+      "id":1,
+      "src":"linkImage.jpg",
+      "title": "Teste - 1",
+      "content": "This is post 1",
+      "category": "young"
+    }
   ]
 }
