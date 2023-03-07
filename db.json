@@ -6,15 +6,31 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "Marcos@email.com",
+      "password": "$2a$10$7neIzFH1sUaTXjImTqjiFOtPSt5diW4vaaVZeaiGTH68SaBTmDXxC", 
+      "name": "João",
+      "age": 38,
+      "id": 2
     }
   ],
   "posts": [
     {
-      "id":1,
-      "src":"linkImage.jpg",
+      "id": 1,
+      "src": "linkImage.jpg",
       "title": "Teste - 1",
       "content": "This is post 1",
-      "category": "young"
+      "category": "Ciencia e tecnologia",
+      "minimunAge": "young"
+    },
+    {
+      "id": 2,
+      "src": "linkImage.jpg",
+      "title": "Teste - 1",
+      "content": "This is post 1",
+      "category": "Mundo",
+      "minimunAge": "kids"
     }
   ]
 }
