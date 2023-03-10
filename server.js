@@ -19,6 +19,6 @@ app.use(auth);
 app.use(router);
 app.listen(port);
 
-console.log(`Servidor está rodando na rota: http://localhost:${port}`);
+console.log(`Servidor está rodando na rota -> http://localhost:${port}`);
 
 /* A senha do Kenzinho é 123456 */

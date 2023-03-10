@@ -17,7 +17,7 @@ Irá trazer todos os posts da API.
 GET /posts?minimunAge=kids <br/>
 GET /posts?category=Mundo <br/>
 
-Irá trazer todos os posts por segundo a condicional estabelecida.
+Irá trazer todos os posts segundo a condicional estabelecida.
 
 ### Cadastro
 

@@ -18,19 +18,183 @@
   "posts": [
     {
       "id": 1,
-      "src": "linkImage.jpg",
-      "title": "Teste - 1",
-      "content": "This is post 1",
-      "category": "Ciencia e tecnologia",
-      "minimunAge": "young"
+      "src": "Img:https://i.imgur.com/2Kxc0vW.jpg",
+      "title": "Artes e Cultura",
+      "description": "Em 1923, o pintor espanhol Salvador Dalí foi expulso da universidade porque ele contestava de forma violenta a capacidade de seus professores",
+      "content": 
+      "O MASP (Museu de Artes de São Paulo) recebeu em 2004 um quadro que valia 1 milhão de dólares. “A Crucificação de Cristo”, do pintor flamengo Jan van Dornicke; A única obra que Michelangelo assinou foi “A Pietá”, por ter sido atribuída a outro artista. Em geral, ele nunca assinava seus trabalhos porque parecia um gesto arrogante e pretensioso, e todos reconheceram suas obras apenas em vê-las;Vincent van Gogh vendeu apenas uma obra de arte em sua vida, ele nunca foi famoso como pintor durante quando estava vivo e constantemente lutou contra a pobreza;O registro mais antigo de uma pintura é datado na Pré-História e foi a figura de um javali pintado na parede de uma caverna no local em que hoje é a Indonésia, há cerca de 45.500 anos",
+      "category": "Artes e Cultura",
+      "minimunAge": "kids"
     },
     {
       "id": 2,
-      "src": "linkImage.jpg",
-      "title": "Teste - 1",
-      "content": "This is post 1",
+      "src": "Img: https://i.imgur.com/SV4PMUl.jpg",
+      "title": "O colorido Día de los Muertos",
+      "description": "No México, ninguém sofre ao lembrar  um ente querido que partiu, afinal, o Dia dos Mortos é comemorado com alegria. Por isso é uma das maiores e mais tradicionais celebrações  do país, pois para o povo mexicano, a morte significa apenas uma passagem, e esse fenômeno é vivido de forma natural, sem tristezas.",
+      "content":
+      "No México, ninguém sofre ao lembrar  um ente querido que partiu, afinal, o Dia dos Mortos é comemorado com alegria. Por isso é uma das maiores e mais tradicionais celebrações  do país, pois para o povo mexicano, a morte significa apenas uma passagem, e esse fenômeno é vivido de forma natural, sem tristezas.É celebrado em 02 de novembro, mas as comemorações começam um mês antes, nesse período, as casas são decoradas com caveiras, as famosas katrinas, e é muito comum que as famílias que perderam um ser querido façam em suas casas um altar de mortos, o altar de muertos,  onde são colocados pertences do falecido e coisas que ele mais gostava quando em vida, por exemplo, tequila, flores, comida e música.",
+      "category": "Artes e Cultura",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 3,
+      "src": "Img: https://i.imgur.com/977iAUL.jpg",
+      "title": "Existem povos indígenas no mundo todo! ",
+      "description": "Existem cerca de 370 a 500 milhões de indígenas no mundo, espalhados por 90 países. Eles vivem em todas as regiões geográficas e representam 5 mil culturas diferentes.",
+      "content":
+      "Criaram e falam uma grande maioria das 7 mil línguas mundiais. Comunidades indígenas são líderes na proteção do meio ambiente, quase 70 milhões de mulheres e homens indígenas dependem das florestas para sua subsistência, e muitos mais são agricultores, caçadores ou pastores. Eles vivem vidas mais curtas, a expectativa de vida é até 20 anos menor do que a de outros povos.",
+      "category": "Artes e Cultura",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 4,
+      "src": "Img: https://i.imgur.com/9RIHqp0.jpg",
+      "title": "7 curiosidades legais sobre animais",
+      "description": "Todos os mamíferos são capazes de saltar, menos os elefantes; Girafas não têm cordas vocais; ",
+      "content":
+      "Todos os mamíferos são capazes de saltar, menos os elefantes; Girafas não têm cordas vocais;A língua de uma baleia-azul pode pesar até 3,6 toneladas, o equivalente ao peso de um elefante médio;As borboletas têm cerca de 12 mil olhos;Os vertebrados mais velhos do mundo são os tubarões da Groenlândia, que podem viver cerca de 400 anos;Existem algumas árvores vivas espalhadas pelo mundo que têm, pelo menos, 5000 anos de idade; Os ursos-polares são, praticamente, invisíveis pelas câmaras de calor por causa da camada de gordura isolante que os protege do frio.",
+      "category": "Ciência e tecnologia",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 5,
+      "src": "Img:https://i.imgur.com/VKnvmth.jpg",
+      "title": "O que é, o que é? Tem cauda, mas não é um cometa? É Mercúrio!",
+      "description": "Por estar bem próximo de nossa estrela, Mercúrio recebe constantes ventos e radiação solares, fazendo com que os gases sejam, de certo modo, “soprados”, adquirindo o formato de uma cauda.",
+      "content":
+      "O nome do primeiro planeta do Sistema Solar é uma referência a Hermes na mitologia grega, o mensageiro dos deuses. Famoso por sua agilidade, Mercúrio era filho de Júpiter e Bona Dea. Era o deus dos viajantes, ladrões e do comércio, encarregado de levar as mensagens de um deus para o outro, e sua velocidade foi associada ao planeta que viaja em alta velocidade ao redor do Sol.",
+      "category": "Ciência e tecnologia",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 6,
+      "src": "Img: https://i.imgur.com/wMUPQIF.jpg",
+      "title": "Patinho feio, o primeiro computador brasileiro ",
+      "description": "Em 1972, muito antes de a internet chegar ao Brasil, estudantes e professores da Escola Politécnica da USP (Universidade de São Paulo) construíram o Patinho Feio, o primeiro computador 100% brasileiro.",
+      "content":
+      "Em 1972, muito antes de a internet chegar ao Brasil, estudantes e professores da Escola Politécnica da USP (Universidade de São Paulo) construíram o Patinho Feio, o primeiro computador 100% brasileiro. O computador foi feito do zero, não tinha telas e media quase um metro de comprimento. Suas placas de circuitos, onde ficam os componentes eletrônicos, foram feitas de plástico e papelão. Hoje, o mais comum é que sejam de fibra de vidro. ",
+      "category": "Ciência e tecnologia",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 7,
+      "src": "Img: https://i.imgur.com/kD5RXnp.jpg",
+      "title": "Uzumaki Naruto! O desenho animado mais assistido do mundo",
+      "description": "Naruto é um famoso desenho japonês (anime) transmitido em diversos países pelo mundo. Sua audiência fica na casa dos 5 Milhões de telespectadores por cada episódio.",
+      "content":
+      "Naruto é um famoso desenho japonês (anime) transmitido em diversos países pelo mundo. Sua audiência fica na casa dos 5 Milhões de telespectadores por cada episódio.A história conta a jornada do pequeno ninja para se tornar um Hokage. No caminho, ele faz amizade com colegas poderosos como Sasuke Uchiha, Sakura Haruno e Kakashi Hatake. Juntos, eles precisam enfrentar inimigos extremamente perigosos, como Orochimaru e a organização criminosa chamada Akatsuki, liderada por Pain.",
+      "category": "Entretenimento",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 8,
+      "src": "hum",
+      "title": "Jogos: Hogwarts Legacy",
+      "description": "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto ambientado no mundo bruxo dos anos 1800, colocando os jogadores no centro de suas próprias aventuras. Está disponível para os consoles PlayStation®5, PlayStation®4, PlayStation®4 Pro, Xbox Series X|S, Xbox One, Nintendo Switch e PC.",
+      "content":
+      "Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto ambientado no mundo bruxo dos anos 1800, colocando os jogadores no centro de suas próprias aventuras. Está disponível para os consoles PlayStation®5, PlayStation®4, PlayStation®4 Pro, Xbox Series X|S, Xbox One, Nintendo Switch e PC. O jogo não é uma adaptação direta dos livros e filmes, mas é fiel ao universo mágico do Mundo Bruxo. Permanecendo fiéis à visão de J.K. Rowling, os desenvolvedores da Portkey Game criam um novo território e surgem com novas maneiras para os fãs aproveitarem o Mundo Bruxo.",
+      "category": "Entretenimento",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 9,
+      "src": "Img: https://i.imgur.com/GsgUZ1A.jpg",
+      "title": "Quem é a bruxa mais poderosa do mundo da Disney?",
+      "description": "Malévola é com certeza a vilã mais poderosa da Disney. Além de conjurar maldições, ela consegue controlar uma enorme floresta de espinhos, enxergar além do alcance, voar, hipnotizar humanos e conjurar fogo verde. Isso sem falar de sua transformação em dragão no final do filme.",
+      "content":
+      "Ela é a protetora do reino dos Moors. Desde pequena, esta garota com chifres e asas mantém a paz entre dois reinos diferentes, até se apaixonar pelo garoto Stefan. Os dois iniciam um romance, mas Stefan tem a ambição de se tornar líder do reino vizinho, e abandona Malévola para conquistar seus planos. Torna-se uma mulher vingativa e amarga, que decide amaldiçoar a filha recém-nascida de Stefan, Aurora. ",
+      "category": "hum",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 10,
+      "src": "hum",
+      "title": "A origem do Papai Noel",
+      "description": "No tempo em que os bárbaros tomavam conta do Velho Mundo, existia uma série de celebrações que tentavam amenizar as rigorosas temperaturas e a falta de comida que tomavam a Europa nos fins de dezembro. Assim, apareceu a lenda do “Velho Inverno”, um senhor que batia na casa das pessoas pedindo por comida e bebida e quem o atendesse com generosidade desfrutaria de um inverno mais ameno.",
+      "content":
+      "No tempo em que os bárbaros tomavam conta do Velho Mundo, existia uma série de celebrações que tentavam amenizar as rigorosas temperaturas e a falta de comida que tomavam a Europa nos fins de dezembro. Assim, apareceu a lenda do “Velho Inverno”, um senhor que batia na casa das pessoas pedindo por comida e bebida e quem o atendesse com generosidade desfrutaria de um inverno mais ameno. Anos depois passaram a associar o Velho Inverno ao monge São Nicolau, reconhecido pela Igreja como um santo. 0 dia 6 de dezembro passou a ser celebrado como o dia de São Nicolau. Nessa data, as crianças aguardavam ansiosamente pelos presentes distribuídos por um homem velho que usava os trajes de um bispo. Foi a partir de então que a ideia do “bom velhinho” começou a dar os seus primeiros passos.",
+      "category": "História ",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 11,
+      "src": "Img:https://i.imgur.com/WdoUITh.png",
+      "title": "O que são as 7 maravilhas do mundo?",
+      "description": "As Sete Maravilhas do Mundo são obras arquitetônicas surpreendentes ou um feito da imaginação e engenharia humanas. Juntas, formam um guia de viagem da Antiguidade que desafia as limitações do tempo e, literalmente, almeja os céus.",
+      "content":
+      "As Sete Maravilhas do Mundo são obras arquitetônicas surpreendentes ou um feito da imaginação e engenharia humanas. Juntas, formam um guia de viagem da Antiguidade que desafia as limitações do tempo e, literalmente, almeja os céus. As atuais 7 Maravilhas do Mundo estão espalhadas pelas Américas, Europa, Oriente Médio e Ásia. Dentre elas estão o Cristo Redentor no Brasil, Coliseu na Itália, Chichén Itzá no México, a Grande Muralha da China, Petra na Jordânia, Machu Picchu no Peru e o Taj Mahal na Índia.",
+      "category": "História",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 12,
+      "src": "Img: https://i.imgur.com/E6yunv2.jpg",
+      "title": "Quem realmente descobriu o Brasil?",
+      "description": "huAo contrário do que aprendemos, o Brasil foi descoberto antes dos portugueses. Três meses antes do descobrimento “oficial” do nosso país, o navegante espanhol Vicente Pinzón relatou, em janeiro de 1500, ter chegado a um local completamente desconhecido pelos reinos da Espanha e de Portugal, ou seja, nosso Brasil. m",
+      "content":
+      "Ao contrário do que aprendemos, o Brasil foi descoberto antes dos portugueses. Três meses antes do descobrimento “oficial” do nosso país, o navegante espanhol Vicente Pinzón relatou, em janeiro de 1500, ter chegado a um local completamente desconhecido pelos reinos da Espanha e de Portugal, ou seja, nosso Brasil. A viagem que Pedro Álvares Cabral fez ao Brasil demorou mais de um mês! Ele saiu de Lisboa no dia 9 de março de 1500 e chegou no dia 22 de abril, próximo à região de Porto Seguro, totalizando 45 dias de navegação. Antes do descobrimento, eram falados mais de mil idiomas no Brasil. Hoje, apenas 180 deles sobrevivem e 11 são os mais praticados.",
+      "category": "História",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 13,
+      "src": "Img:https://i.imgur.com/cIGZ6aI.jpg",
+      "title": "O que é preciso para ser considerado um país?  ",
+      "description": "De acordo com a ONU, hoje, existem no mundo 193 países, mas esse número pode variar em alguns documentos dependendo do órgão responsável por fazer a contagem. Isso porque as características que formam um país podem ser desconsideradas ou ignoradas na hora de realizar o registro.",
+      "content":
+      "De acordo com a ONU, hoje, existem no mundo 193 países, mas esse número pode variar em alguns documentos dependendo do órgão responsável por fazer a contagem. Isso porque as características que formam um país podem ser desconsideradas ou ignoradas na hora de realizar o registro.Para ser considerado um país, o local precisa ter território definido, um governo próprio, ser habitado com permanência, e ter a independência reconhecida por outros países, o que possibilita as interações diplomáticas. Nesses diversos territórios, existem muitos povos com costumes e hábitos próprios, além de diferentes modos de interação social e culturas bastante curiosas.",
       "category": "Mundo",
       "minimunAge": "kids"
+    },
+    {
+      "id": 14,
+      "src": "Img: https://i.imgur.com/RXaYKTs.jpg",
+      "title": "O Ano Novo Chinês é diferente do nosso!",
+      "description": "A China possui um calendário distinto do que usamos aqui. Eles seguem um calendário lunar que se baseia nos 12 ciclos da Lua, o que dá em torno de 354 dias de duração. Esse calendário não tem data fixa no nosso calendário tradicional, por isso o ano novo pode ocorrer todo ano em datas diferentes.       ",
+      "content":
+      "A China possui um calendário distinto do que usamos aqui. Eles seguem um calendário lunar que se baseia nos 12 ciclos da Lua, o que dá em torno de 354 dias de duração. Esse calendário não tem data fixa no nosso calendário tradicional, por isso o ano novo pode ocorrer todo ano em datas diferentes. A passagem de ano para os chineses é uma das datas comemorativas mais importantes e mais populares de sua cultura. ",
+      "category": "Mundo",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 15,
+      "src": "Img:https://i.imgur.com/dJbvGBE.jpg",
+      "title": "6 curiosidades aleatórias sobre o mundo",
+      "description": "O Brasil é o país que possui a maior comunidade japonesa fora do Japão. Só em São Paulo, moram mais de 600 mil japoneses. O calendário da Etiópia é sete anos atrasado em relação aos demais países do ocidente. ",
+      "content":
+      "O Brasil é o país que possui a maior comunidade japonesa fora do Japão. Só em São Paulo, moram mais de 600 mil japoneses.O calendário da Etiópia é sete anos atrasado em relação aos demais países do ocidente.A avenida mais larga do mundo, com 14 faixas diferentes, fica na Argentina. A Rússia é o maior país do mundo, ocupando cerca de 10% de toda a terra do planeta.Na Holanda, estima-se que o número de bicicletas ultrapasse três vezes o número de veículos.O menor país do mundo é o Vaticano, com cerca de 800 habitantes oficiais",
+      "category": "Mundo",
+      "minimunAge": "kids"
+    },
+    {
+      "id": 16,
+      "src": "Img: https://i.imgur.com/jSLPGhs.jpg",
+      "title": "O trágico final da Chapeuzinho Vermelho",
+      "description": "A história de Chapeuzinho Vermelho teve origem na idade média, no continente europeu, tendo sido criada por camponeses que queriam amedrontar seus filhos, visto que tinham que trabalhar no campo e deixar as crianças sozinhas em casa.      ",
+      "content":
+      "A história de Chapeuzinho Vermelho teve origem na idade média, no continente europeu, tendo sido criada por camponeses que queriam amedrontar seus filhos, visto que tinham que trabalhar no campo e deixar as crianças sozinhas em casa.O fim é bem mais trágico para a vovozinha e para a criança. Isto porque, devido ao fato de deixarem os filhos sozinhos, os camponeses inventaram uma verdadeira história de terror para evitar que seus filhos fossem até os perigos existentes nas florestas e bosques. Na versão dos camponeses, acontece quando o lobo chega até a casa, tira a vida da avó e prepara um verdadeiro banquete para recepcionar a menina utilizando a carne e o sangue da velhinha. Após o jantar, o lobo mata Chapeuzinho Vermelho e come a sua carne.",
+      "category": "Terror e sobrenatura",
+      "minimunAge": "young"
+    },
+    {
+      "id": 17,
+      "src": "Img: https://i.imgur.com/TQAFCwA.jpg",
+      "title": "Serial Killer: Elizabeth Báthory",
+      "description": "Nascida na Transilvânia (atual Hungria), era de uma família nobre e influente. Casou-se aos 15 anos com seu primo, o conde Ferenc Nádasdy, com quem vivia no castelo da família. Elizabeth passou a assumir os assuntos da residência e começou a torturar os empregados da casa de maneira sádica, conforme infringiam alguma de suas regras.",
+      "content":
+      "Nascida na Transilvânia (atual Hungria), era de uma família nobre e influente. Casou-se aos 15 anos com seu primo, o conde Ferenc Nádasdy, com quem vivia no castelo da família. Elizabeth passou a assumir os assuntos da residência e começou a torturar os empregados da casa de maneira sádica, conforme infringiam alguma de suas regras.Após a morte do marido, quando a condessa já tinha 40 anos, acreditava que, para manter sua aparência jovem, precisaria beber o sangue de outras mulheres. Por isso, atraia garotas jovens para seu castelo com a promessa de trabalho, e lá torturava e matava todas elas. No total, cerca de 650 meninas foram mortas pela serial killer, que foi condenada pela morte de 80 delas.",
+      "category": "Terror e sobrenatural",
+      "minimunAge": "young"
+    },
+    {
+      "id": 18,
+      "src": "Img: https://i.imgur.com/YXxZJC9.jpg",
+      "title": "Terror em Amityville",
+      "description": "Uma casa que fica em Amityville, nos Estados Unidos, o filho mais velho de uma família, Ronald Defeo Jr., matou a tiros seus parentes em 1974. Quando foi preso, ele alegou que uma voz o obrigou a cometer os crimes e que teria sido possuído pelo próprio diabo para cometer tal ato. Cerca de dois anos depois, um casal, George e Kathy, se mudou para a residência, mas aguentou morar lá apenas por 28 dias. ",
+      "content":
+      "Uma casa que fica em Amityville, nos Estados Unidos, o filho mais velho de uma família, Ronald Defeo Jr., matou a tiros seus parentes em 1974. Quando foi preso, ele alegou que uma voz o obrigou a cometer os crimes e que teria sido possuído pelo próprio diabo para cometer tal ato. Cerca de dois anos depois, um casal, George e Kathy, se mudou para a residência, mas aguentou morar lá apenas por 28 dias. Os diversos eventos sobrenaturais, que incluíam enxames de moscas, levitações inesperadas, um indesejado amigo imaginário, um cheiro de coisa podre e uma espécie de gosma verde escorrendo das paredes. Os eventos despertaram interesse pelo mundo todo e, em 1976 , o fotógrafo paranormal Gene Campbell visitou o lugar e registrou uma imagem que mostra um suposto fantasma.",
+      "category": "Terror e sobrenatural",
+      "minimunAge": "young"
     }
   ]
 }
